@@ -1,0 +1,108 @@
+{
+  "source_image": "large_image_fixture.png",
+  "image_width": 384,
+  "image_height": 384,
+  "tile_size": 160,
+  "overlap": 40,
+  "tiles": [
+    {
+      "name": "0_0.png",
+      "index": [
+        0,
+        0
+      ],
+      "x_offset": 0,
+      "y_offset": 0,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "1_0.png",
+      "index": [
+        1,
+        0
+      ],
+      "x_offset": 120,
+      "y_offset": 0,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "2_0.png",
+      "index": [
+        2,
+        0
+      ],
+      "x_offset": 224,
+      "y_offset": 0,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "0_1.png",
+      "index": [
+        0,
+        1
+      ],
+      "x_offset": 0,
+      "y_offset": 120,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "1_1.png",
+      "index": [
+        1,
+        1
+      ],
+      "x_offset": 120,
+      "y_offset": 120,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "2_1.png",
+      "index": [
+        2,
+        1
+      ],
+      "x_offset": 224,
+      "y_offset": 120,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "0_2.png",
+      "index": [
+        0,
+        2
+      ],
+      "x_offset": 0,
+      "y_offset": 224,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "1_2.png",
+      "index": [
+        1,
+        2
+      ],
+      "x_offset": 120,
+      "y_offset": 224,
+      "width": 160,
+      "height": 160
+    },
+    {
+      "name": "2_2.png",
+      "index": [
+        2,
+        2
+      ],
+      "x_offset": 224,
+      "y_offset": 224,
+      "width": 160,
+      "height": 160
+    }
+  ]
+}
